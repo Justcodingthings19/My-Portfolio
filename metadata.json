@@ -1,0 +1,6 @@
+{
+  "name": "Pampana Lekhya Portfolio",
+  "description": "Premium cinematic AI-themed digital portfolio for Pampana Lekhya, Artificial Intelligence Student.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
